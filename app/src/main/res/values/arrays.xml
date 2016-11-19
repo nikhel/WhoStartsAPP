@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="standard">
+        <item>Tallest person</item>
+        <item>Shortest person</item>
+        <item>Person with most hair</item>
+        <item>Person with least hair</item>
+        <item>Person who own this device</item>
+        <item>Person with longest nails</item>
+        <item>Person with most pets</item>
+        <item>Person who can touch the entrance door first</item>
+        <item>Had the most recent birthday</item>
+        <item>Whose birthday is closest</item>
+    </string-array>
+
+    <string-array name="darwin_award">
+        <item>Person that can throw ones phone the furthest</item>
+        <item>Person who is the last to remove hand from stove</item>
+        <item>The person who run the fastest in to a wall</item>
+        <item>The person who can hold ones breath the longest</item>
+        <item>Can jump from the highest point</item>
+    </string-array>
+
+    <string-array name="fantasy">
+        <item>The one who most looks like a Dwarf </item>
+        <item>The one who most looks like an Elf </item>
+        <item>The one who most looks like a Wizzard </item>
+        <item>The one who most looks like a Troll </item>
+        <item>Knows a fantasy character with the longest name</item>
+        <item>Knows most female fantasy characters</item>
+    </string-array>
+
+    <string-array name="nerd">
+        <item>Person who know most decimals of pi</item>
+        <item>Person who know most decimals of gravitational constant</item>
+        <item>Person who can name the element with highest number in the periodic table. In case of draw, name the second highest and so on</item>
+        <item>Person who know the most neighbours of Ag in the periodic table</item>
+        <item>Person who know the most neighbours of Li in the periodic table</item>
+        <item>Fastest can say how many of the following numbers that are squares {81, 146, 25, 15, 43, 289, 447}</item>
+        <item>Fastest can say how many of the following numbers that are squares {1, 146, 367, 64, 361, 732, 841}</item>
+    </string-array>
+</resources>
